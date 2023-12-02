@@ -2,7 +2,7 @@
 
 Создания репозитория
 ```sh
-git init
+git init 
 ```
 ```sh
 git add
