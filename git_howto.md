@@ -67,7 +67,7 @@ git branch
 
 ```
 git checkout <имя_ветки>
->>>>>>> branch_comand
+
 ```
 
 
