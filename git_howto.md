@@ -64,8 +64,10 @@ git branch
 ```
 Перемещение по веткам
 
-```sh
-git checkout <branch_name>
+
+```
+git checkout <имя_ветки>
+>>>>>>> branch_comand
 ```
 
 
